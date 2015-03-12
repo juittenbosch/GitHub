@@ -1,0 +1,18 @@
+@media only screen and (max-width: 1290px) and (min-width: 1051px) { 
+    /* Normal Desktop view: 3 tile */
+    
+    
+
+.item {
+        width: 50%;
+        height: 10px;
+        padding-bottom: 25%;
+}
+        
+.imagescontainer{
+		margin: auto;
+		max-width: 1000px;
+}        
+        
+        
+}

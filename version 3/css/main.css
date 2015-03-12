@@ -1,0 +1,37 @@
+* {
+		margin: 0px;
+		padding:0px;
+
+}
+
+html {
+		background-color: rgba(31,31,31,.85);
+		height: 100%;
+		width: 100%;		
+		list-style: none;
+		text-decoration: none;
+		font-family: 'Lato';	
+		color: white;
+		font-size: 100%;
+}
+
+body {
+		height: 100%;
+		width: 100%;
+}
+
+a {
+		text-decoration: none;
+}
+
+a:visited {
+		text-decoration: none;
+		color: white;
+}
+header, nav, article, section, footer, aside {
+		display: block;
+}
+
+/*main css should have footer and header navs or anything that is carried out through all pages so that
+you dont have to copy each css code into each css page*/
+

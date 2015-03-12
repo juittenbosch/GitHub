@@ -1,0 +1,17 @@
+@media only screen and (max-width:670px) and (min-width:451px) { 
+    /* Tablet iPad view: 2 tile */
+    
+    
+
+.item {
+        width: 100%;
+        height: 10px;
+        padding-bottom: 50%;
+}
+        
+.imagescontainer{
+		margin: auto 5%;
+}        
+        
+        
+}
